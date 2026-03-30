@@ -52,7 +52,7 @@ def main():
             print("Feedback: Excellent performance. Keep doing what you are doing.")
         elif marks >= 80:
             print("Feedback: Good performance. With a little more effort, you can reach excellence.")
-        elif marks >= 70:+-+
+        elif marks >= 70:
             print("Feedback: Decent performance. Focus on practicing more questions.")
         elif marks >= 60:
             print("Feedback: Average performance. Revise concepts and practice regularly.")
